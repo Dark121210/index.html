@@ -86,6 +86,37 @@
         </section>
         <section id="store" class="store">
             <h2>Loja</h2>
+            <section id="store" class="store">
+    <h2>Loja</h2>
+    <div class="product">
+        <img src="ebook1.jpg" alt="eBook 1">
+        <div>
+            <h3>Domine a Programação em Python</h3>
+            <p>Aprenda a programar em Python, uma das linguagens mais populares do mundo. Este eBook cobre tudo, desde o básico até técnicas avançadas, com exemplos práticos e exercícios para reforçar o aprendizado.</p>
+            <p>Preço: R$20,00</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+    </div>
+    <div class="product">
+        <img src="ebook2.jpg" alt="eBook 2">
+        <div>
+            <h3>Guia Completo de Marketing Digital</h3>
+            <p>Descubra as estratégias mais eficazes de marketing digital com este guia completo. Aprenda sobre SEO, marketing de conteúdo, redes sociais, e muito mais para impulsionar sua presença online.</p>
+            <p>Preço: R$30,00</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+    </div>
+    <!-- Adicione mais produtos aqui -->
+    <div class="product">
+        <img src="ebook3.jpg" alt="eBook 3">
+        <div>
+            <h3>Título do eBook 3</h3>
+            <p>Descrição do eBook 3.</p>
+            <p>Preço: R$25,00</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+    </div>
+</section>
             <div class="product">
                 <img src="ebook1.jpg" alt="eBook 1">
                 <div>
@@ -123,4 +154,4 @@
     </footer>
 </body>
 </html>
-Atualizar conteúdo do site
+
